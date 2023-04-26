@@ -53,9 +53,9 @@ The animations are defined using the Framer Motion API and are included in the r
 This project is a 3D developer portfolio that utilizes the React and ThreeJS libraries to render and animate 3D models and graphics. The project also incorporates 3D animations and effects using Framer Motion. The code documentation provides a detailed explanation of the project structure, technologies and libraries used, ThreeJS scene, React components, and Framer Motion animations.
 </html>
 
-Reference : 💻 JS Mastery Pro - https://jsmastery.pro/youtube
-Youtube Tutorial : https://youtu.be/0fYi8SGA20k
-Github Code Snippets: https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1
+Reference : 💻 JS Mastery Pro - https://jsmastery.pro/youtube<br>
+Youtube Tutorial : https://youtu.be/0fYi8SGA20k<br>
+Github Code Snippets: https://gist.github.com/adrianhajdin/b1d33c262941a7e21aad833a1cfc84b1<br>
 
 
 
