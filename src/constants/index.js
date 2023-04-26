@@ -113,7 +113,7 @@ const experiences = [
   {
     title: "Cheif Executive Officer",
     company_name: "Rent Rave",
-    icon: meta,
+    icon: rent,
     iconBg: "#E6DEDD",
     date: "November 2022 - Present",
     points: [
@@ -126,7 +126,7 @@ const experiences = [
   {
     title: "GSoC Head",
     company_name: "FOSS MEC",
-    icon: starbucks,
+    icon: foss,
     iconBg: "#383E56",
     date: "Nov 2022 - Present",
     points: [
@@ -139,7 +139,7 @@ const experiences = [
   {
     title: "Marketing Coordinator",
     company_name: "TEDX MEC",
-    icon: tesla,
+    icon: ted,
     iconBg: "#E6DEDD",
     date: "Dec 2022 - Present",
     points: [
@@ -152,7 +152,7 @@ const experiences = [
   {
     title: "Designer",
     company_name: "Developer's Student Club, MEC",
-    icon: shopify,
+    icon: gdsc,
     iconBg: "#383E56",
     date: "Oct 2023 - Present",
     points: [
@@ -164,7 +164,7 @@ const experiences = [
   {
     title: "Social Media Marketing - Lead Intern",
     company_name: "Take it Eazy Media",
-    icon: meta,
+    icon: tiem,
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
@@ -179,29 +179,30 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
-  },
-  {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
+      "Energy and enthusiasm of our beloved first-year's powered TEDxMEC 2023 ❤️Theertha did an amazing job with all the responsibilities she was assigned. Keep evolving; Let's see what the future holds :)",
+    name: "Amith Tony",
     designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    company: "TEDX MEC",
+    image: "https://media.licdn.com/dms/image/D4D03AQGO3vWiJhfCQQ/profile-displayphoto-shrink_800_800/0/1669533819598?e=1687996800&v=beta&t=_nXixMIFVvObufbpBoc4RQd9ub6kGVg6LCHSCLEfJVQ",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I can't wait to see what you are going to do with your life Theertha Avinash! Super happy with what you did for TEDxMEC! ❤️",
+    name: "Vishnumaya Unni",
+    designation: "Licensee",
+    company: "TEDX MEC",
+    image: "https://media.licdn.com/dms/image/D5603AQF9ABcESaSLfw/profile-displayphoto-shrink_800_800/0/1678382765612?e=1687996800&v=beta&t=bpRoBfdXFWsh9L5KLNv5PdTOkH6KwngLq19obCel5Ak",
+  },
+  {
+    testimonial:
+      "Your performance was amazing. During the review meeting, Principal, Model Engg College was not hesitant to special mention your name.Kudos Theertha.",
+    name: "Rashid M E",
+    designation: "Asst Professor",
+    company: "Electronics at Model Engineering College",
+    image: "https://media.licdn.com/dms/image/C5603AQFsQog-bGL-xA/profile-displayphoto-shrink_800_800/0/1595320542201?e=1687996800&v=beta&t=WII1m59rNM-XOTAr_5SJtJihp6-WXESOhmeA09lP7Us",
   },
 ];
+
 
 const projects = [
   {
